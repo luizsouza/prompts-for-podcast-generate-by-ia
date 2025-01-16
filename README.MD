@@ -20,5 +20,5 @@ Projeto com o objetivo de gerar um podcast utilizando IA para comentar o livro M
 
 ## 🛠️ Instruções de execução
 
-O livro se encontra na pasta assets.
-O podcast gerado se encontra na pasta output.
+O livro se encontra na pasta assets. <br>
+**[LINK PARA O PODCAST AQUI](https://notebooklm.google.com/notebook/d6ea509f-5c98-4fc5-92e3-34d262a1b444/audio)**
